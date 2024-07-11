@@ -1,4 +1,4 @@
-Employee Data Analysis Project
+Employee Data Analysis Project 
 
 Welcome to the Employee Data Analysis Project repository! This project involves analyzing employee data using various data analysis techniques and visualizations. The tasks are designed to assess skills in data manipulation, visualization, and reporting using tools like Excel and Power BI.
 
